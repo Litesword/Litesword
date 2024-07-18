@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Litesword
+- 👋 Hi, I’m @Teja Kommuru
 - 👀 I’m interested in anime,coding(backend) and games
 - 🌱 I’m currently learning ...full stack
 - 💞️ I’m looking to collaborate on ...full stack projects
